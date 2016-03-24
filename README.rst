@@ -11,6 +11,13 @@ Use the following resources to learn more:
 * `Official Client documentation <http://docs.openstack.org/developer/python-glanceclient/>`_
 
 
+
 ======
 Add BOSS driver for Glance
 ======
+
+This project attempts to provide a driver for Glance
+
+Development Env
+------------
+* `Official documentation <http://docs.openstack.org/developer/glance/installing.html>`_
